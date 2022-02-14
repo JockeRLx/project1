@@ -1,0 +1,19 @@
+<!DOCTYPE html> <!-- Esta linea significa el tipo de versión 5. -->
+
+<!--Marcando el Dom-->
+<html lang = "es"> <!--La etiqueta tiene la propiedad lang, lamguage-->
+   <head>  
+     <!--En el head van las metatiquetas, son invisibles al cliente, solo sirven para el navegador-->
+     <title>Mi primera pagina web</title>
+     <meta charset = "UTF-8"> <!--especifico que mis caracteres van a ser version UTF-8-->
+     <meta http-equiv = "X-UA-Compatible" content = "IE-edge">
+     <meta name = "viewport" content = "width = divice-width, initial-scale = 1.0">
+     <title>Mi segundo despliegue</title> 
+   </head>
+  
+   <body>
+     
+
+</body>
+
+</html>  
